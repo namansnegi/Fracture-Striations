@@ -1,4 +1,4 @@
-# Fracture-Striations
+# Fatigue-Striations
 
 ## Procedure
 - Image Processing
